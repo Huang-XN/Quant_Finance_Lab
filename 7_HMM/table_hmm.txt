@@ -1,0 +1,14 @@
+State 0:
+Mean Return: 0.0016
+Mean Volatility: 0.0143
+Duration: 505
+
+State 1:
+Mean Return: 0.0013
+Mean Volatility: 0.0142
+Duration: 504
+
+State 2:
+Mean Return: -0.0001
+Mean Volatility: 0.0321
+Duration: 239
