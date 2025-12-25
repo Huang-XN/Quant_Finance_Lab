@@ -26,4 +26,6 @@ Welcome to my personal quantitative finance laboratory. This repository document
 * **Performance:** Achieved a total Log Return of ~1.09 over 5 years, despite significant drawdowns in 2022 due to geopolitical structural breaks.
 
 ## 🚀 About Me
-I am a Ph.D. candidate with a background in Computation. I specialize in decoding complex systems.
+I am a **Ph.D. candidate in Biology** with a strong foundation in **Mathematics (B.S.)** and **Financial Mathematics (M.S.)**. 
+
+For the past years, I have been working in biological research, specializing in extracting signals from high-dimensional, noisy biological sequencing data. I am now applying this "signal-from-noise" expertise to financial markets.
