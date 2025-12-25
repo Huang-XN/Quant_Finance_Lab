@@ -1,0 +1,25 @@
+                     Constant Mean - GARCH Model Results                      
+==============================================================================
+Dep. Variable:            Log_Returns   R-squared:                       0.000
+Mean Model:             Constant Mean   Adj. R-squared:                  0.000
+Vol Model:                      GARCH   Log-Likelihood:               -437.136
+Distribution:                  Normal   AIC:                           882.271
+Method:            Maximum Likelihood   BIC:                           896.373
+                                        No. Observations:                  251
+Date:                Wed, Dec 24 2025   Df Residuals:                      250
+Time:                        20:01:28   Df Model:                            1
+                                 Mean Model                                
+===========================================================================
+                 coef    std err          t      P>|t|     95.0% Conf. Int.
+---------------------------------------------------------------------------
+mu             0.1236  9.289e-02      1.331      0.183 [-5.841e-02,  0.306]
+                            Volatility Model                            
+========================================================================
+                 coef    std err          t      P>|t|  95.0% Conf. Int.
+------------------------------------------------------------------------
+omega          1.4709      0.427      3.449  5.636e-04 [  0.635,  2.307]
+alpha[1]       0.3153      0.262      1.202      0.229 [ -0.199,  0.830]
+beta[1]        0.0000      0.191      0.000      1.000 [ -0.374,  0.374]
+========================================================================
+
+Covariance estimator: robust
