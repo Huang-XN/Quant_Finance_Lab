@@ -24,3 +24,6 @@ Welcome to my personal quantitative finance laboratory. This repository document
     * **PEP vs KO:** Failed stationarity test (P-value > 0.05), proving structural breaks in consumer staples.
     * **XOM vs CVX:** Confirmed cointegration (P-value < 0.05).
 * **Performance:** Achieved a total Log Return of ~1.09 over 5 years, despite significant drawdowns in 2022 due to geopolitical structural breaks.
+
+## 🚀 About Me
+I am a Ph.D. candidate with a background in Computation. I specialize in decoding complex systems.
