@@ -98,7 +98,9 @@ The studies are organized into two distinct tracks:
     ![HMM Regimes](./7_HMM/Figure_1_HMM_for_AAPL.png)
     *(Note: The model autonomously learned to flag high-risk periods in red)*
 
-### 6. Deep Learning for Time Series (LSTM with PyTorch)
+---
+
+### 8. Deep Learning for Time Series (LSTM with PyTorch)
 
 * **File:** `8_LSTM.ipynb`
 * **Objective:** To capture **long-term temporal dependencies** in financial sequences, analogous to analyzing long DNA sequences with distant regulatory elements.
